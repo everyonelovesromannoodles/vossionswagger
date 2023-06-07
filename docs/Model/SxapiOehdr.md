@@ -1,0 +1,50 @@
+# SxapiOehdr
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**invoice_dt** | **string** |  | [optional] 
+**inv_nr** | **string** |  | [optional] 
+**inv_suf** | **string** |  | [optional] 
+**cust_po** | **string** |  | [optional] 
+**inv_type** | **string** |  | [optional] 
+**refer** | **string** |  | [optional] 
+**partner_id** | **string** |  | [optional] 
+**buy_party** | **string** |  | [optional] 
+**dept** | **string** |  | [optional] 
+**order_disp** | **string** |  | [optional] 
+**event** | **string** |  | [optional] 
+**vend_no2** | **string** |  | [optional] 
+**cancel_dt** | **string** |  | [optional] 
+**ship_dt** | **string** |  | [optional] 
+**promise_dt** | **string** |  | [optional] 
+**req_ship_dt** | **string** |  | [optional] 
+**ship_via** | **string** |  | [optional] 
+**po_iss_dt** | **string** |  | [optional] 
+**enter_dt** | **string** |  | [optional] 
+**pkg_id** | **string** |  | [optional] 
+**ack_type** | **string** |  | [optional] 
+**current_dt** | **string** |  | [optional] 
+**user1** | **string** |  | [optional] 
+**user2** | **string** |  | [optional] 
+**user3** | **string** |  | [optional] 
+**user_inv** | **string** |  | [optional] 
+**trans_type** | **string** |  | [optional] 
+**ship_instr** | **string** |  | [optional] 
+**placed_by** | **string** |  | [optional] 
+**whse** | **string** |  | [optional] 
+**core_chg** | **string** |  | [optional] 
+**datc_cost** | **string** |  | [optional] 
+**down_pmt** | **string** |  | [optional] 
+**spec_disc_amt** | **string** |  | [optional] 
+**restock_amt** | **string** |  | [optional] 
+**tax_amt** | **string** |  | [optional] 
+**gst_tax_amt** | **string** |  | [optional] 
+**pst_tax_amt** | **string** |  | [optional] 
+**wo_disc_amt** | **string** |  | [optional] 
+**terms_disc_amt** | **string** |  | [optional] 
+**co_no** | **string** |  | [optional] 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+

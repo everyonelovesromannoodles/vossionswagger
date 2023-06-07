@@ -1,0 +1,12 @@
+# SxapiargetinvoicelistResponse
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**more_records_available** | **bool** |  | [optional] 
+**c_error_message** | **string** |  | [optional] 
+**t_artrans** | [**\Swagger\Client\Model\TArtransResp**](TArtransResp.md) |  | [optional] 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+

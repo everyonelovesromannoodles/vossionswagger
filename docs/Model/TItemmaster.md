@@ -1,0 +1,46 @@
+# TItemmaster
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**prod** | **string** |  | [optional] 
+**vendprod** | **string** |  | [optional] 
+**cono** | **int** |  | [optional] 
+**vendno** | **double** |  | [optional] 
+**unitstock** | **string** |  | [optional] 
+**preventfl** | **string** |  | [optional] 
+**suspendfl** | **string** |  | [optional] 
+**unit1** | **string** |  | [optional] 
+**unit2** | **string** |  | [optional] 
+**unit3** | **string** |  | [optional] 
+**unitconv2** | **double** |  | [optional] 
+**unitconv3** | **double** |  | [optional] 
+**unitprice** | **string** |  | [optional] 
+**unitconv** | **double** |  | [optional] 
+**listprice1** | **double** |  | [optional] 
+**listprice2** | **double** |  | [optional] 
+**listprice3** | **double** |  | [optional] 
+**listprice4** | **double** |  | [optional] 
+**listprice5** | **double** |  | [optional] 
+**prodrestrictcd** | **string** |  | [optional] 
+**descrip1** | **string** |  | [optional] 
+**descrip2** | **string** |  | [optional] 
+**classcd** | **string** |  | [optional] 
+**subclasscd** | **string** |  | [optional] 
+**pricetype** | **string** |  | [optional] 
+**prodcat** | **string** |  | [optional] 
+**misc1** | **string** |  | [optional] 
+**misc2** | **string** |  | [optional] 
+**misc3** | **string** |  | [optional] 
+**user1** | **string** |  | [optional] 
+**user2** | **string** |  | [optional] 
+**user3** | **string** |  | [optional] 
+**user4** | **string** |  | [optional] 
+**user5** | **string** |  | [optional] 
+**user6** | **string** |  | [optional] 
+**commentgrp** | **string** |  | [optional] 
+**catalogfl** | **bool** |  | [optional] 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+

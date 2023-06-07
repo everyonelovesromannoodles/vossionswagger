@@ -1,0 +1,52 @@
+# TSrchgordlinein
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**newrecordfl** | **bool** |  | [optional] 
+**deleterecordfl** | **bool** |  | [optional] 
+**changerecordfl** | **bool** |  | [optional] 
+**lineno** | **int** |  | [optional] 
+**processinglineno** | **int** |  | [optional] 
+**itemnumber** | **string** |  | [optional] 
+**custitem** | **string** |  | [optional] 
+**orderqty** | **double** |  | [optional] 
+**unitofmeasure** | **string** |  | [optional] 
+**unitconv** | **double** |  | [optional] 
+**warehouseid** | **string** |  | [optional] 
+**lineitemtype** | **string** |  | [optional] 
+**itemdesc1** | **string** |  | [optional] 
+**itemdesc2** | **string** |  | [optional] 
+**actualsellprice** | **double** |  | [optional] 
+**cost** | **double** |  | [optional] 
+**nonstockflag** | **string** |  | [optional] 
+**listprice** | **string** |  | [optional] 
+**seqno** | **int** |  | [optional] 
+**vendno** | **double** |  | [optional] 
+**prodline** | **string** |  | [optional] 
+**prodcat** | **string** |  | [optional] 
+**retorderno** | **int** |  | [optional] 
+**retordersuf** | **int** |  | [optional] 
+**retlineno** | **int** |  | [optional] 
+**retreason** | **string** |  | [optional] 
+**inventoryty** | **string** |  | [optional] 
+**comments** | **string** |  | [optional] 
+**createpo** | **string** |  | [optional] 
+**backorder** | **string** |  | [optional] 
+**issueqty** | **double** |  | [optional] 
+**invtypeoverfl** | **string** |  | [optional] 
+**taxablefl** | **bool** |  | [optional] 
+**nontaxtype** | **string** |  | [optional] 
+**copycommentfl** | **bool** |  | [optional] 
+**reqshipdt** | [**\DateTime**](\DateTime.md) |  | [optional] 
+**promisedt** | [**\DateTime**](\DateTime.md) |  | [optional] 
+**department** | **string** |  | [optional] 
+**custglno** | **string** |  | [optional] 
+**chargeno** | **string** |  | [optional] 
+**lastpricepd** | **double** |  | [optional] 
+**origdt** | [**\DateTime**](\DateTime.md) |  | [optional] 
+**approvedt** | [**\DateTime**](\DateTime.md) |  | [optional] 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+

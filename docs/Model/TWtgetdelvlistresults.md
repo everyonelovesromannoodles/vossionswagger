@@ -1,0 +1,50 @@
+# TWtgetdelvlistresults
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**cono** | **int** |  | [optional] 
+**shipfmwhse** | **string** |  | [optional] 
+**shiptowhse** | **string** |  | [optional] 
+**wtno** | **int** |  | [optional] 
+**wtsuf** | **int** |  | [optional] 
+**stagecd** | **int** |  | [optional] 
+**transtype** | **string** |  | [optional] 
+**enterdt** | [**\DateTime**](\DateTime.md) |  | [optional] 
+**reqshipdt** | [**\DateTime**](\DateTime.md) |  | [optional] 
+**printeddt** | [**\DateTime**](\DateTime.md) |  | [optional] 
+**transdt** | [**\DateTime**](\DateTime.md) |  | [optional] 
+**transtm** | **string** |  | [optional] 
+**shipviaty** | **string** |  | [optional] 
+**operinit** | **string** |  | [optional] 
+**shiptonm** | **string** |  | [optional] 
+**shiptoaddr1** | **string** |  | [optional] 
+**shiptoaddr2** | **string** |  | [optional] 
+**shiptoaddr3** | **string** |  | [optional] 
+**shiptocity** | **string** |  | [optional] 
+**shiptost** | **string** |  | [optional] 
+**shiptozip** | **string** |  | [optional] 
+**shipinstr** | **string** |  | [optional] 
+**refer** | **string** |  | [optional] 
+**totlineamt** | **double** |  | [optional] 
+**totordamt** | **double** |  | [optional] 
+**totweight** | **double** |  | [optional] 
+**totcubes** | **double** |  | [optional] 
+**pickeddt** | [**\DateTime**](\DateTime.md) |  | [optional] 
+**totqtyshp** | **double** |  | [optional] 
+**openinit** | **string** |  | [optional] 
+**orderaltno** | **int** |  | [optional] 
+**user1** | **string** |  | [optional] 
+**user2** | **string** |  | [optional] 
+**user3** | **string** |  | [optional] 
+**user4** | **string** |  | [optional] 
+**user5** | **string** |  | [optional] 
+**user13** | **string** |  | [optional] 
+**user18** | **string** |  | [optional] 
+**user20** | **string** |  | [optional] 
+**user24** | **string** |  | [optional] 
+**userfield** | **string** |  | [optional] 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+

@@ -1,0 +1,50 @@
+# TOrderlntrans
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**cono** | **int** |  | [optional] 
+**custno** | **double** |  | [optional] 
+**orderno** | **string** |  | [optional] 
+**ordersuf** | **int** |  | [optional] 
+**lineno** | **int** |  | [optional] 
+**orderseqno** | **int** |  | [optional] 
+**prod** | **string** |  | [optional] 
+**descrip1** | **string** |  | [optional] 
+**descrip2** | **string** |  | [optional] 
+**qtyord** | **double** |  | [optional] 
+**qtyship** | **double** |  | [optional] 
+**qtybo** | **double** |  | [optional] 
+**unit** | **string** |  | [optional] 
+**custordunit** | **string** |  | [optional] 
+**priceunit** | **string** |  | [optional] 
+**custpriceunit** | **string** |  | [optional] 
+**listprice** | **double** |  | [optional] 
+**price** | **double** |  | [optional] 
+**netamt** | **double** |  | [optional] 
+**reqshipdt** | [**\DateTime**](\DateTime.md) |  | [optional] 
+**reqprod** | **string** |  | [optional] 
+**entryseqno** | **int** |  | [optional] 
+**itemtype** | **string** |  | [optional] 
+**intseqno** | **int** |  | [optional] 
+**printpricefl** | **bool** |  | [optional] 
+**specnstype** | **string** |  | [optional] 
+**botype** | **string** |  | [optional] 
+**cubes** | **double** |  | [optional] 
+**weight** | **double** |  | [optional] 
+**bolclass** | **string** |  | [optional] 
+**serlottype** | **string** |  | [optional] 
+**binloc1** | **string** |  | [optional] 
+**binloc2** | **string** |  | [optional] 
+**binloc3** | **string** |  | [optional] 
+**binloc4** | **string** |  | [optional] 
+**upccode** | **string** |  | [optional] 
+**brandmsg** | **string** |  | [optional] 
+**arpvendno** | **double** |  | [optional] 
+**prodcat** | **string** |  | [optional] 
+**icspstatustype** | **string** |  | [optional] 
+**vendprod** | **string** |  | [optional] 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+

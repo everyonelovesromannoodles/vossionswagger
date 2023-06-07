@@ -1,0 +1,50 @@
+# TKplist
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**wono** | **int** |  | [optional] 
+**wosuf** | **int** |  | [optional] 
+**bofl** | **bool** |  | [optional] 
+**bono** | **int** |  | [optional] 
+**enterdt** | [**\DateTime**](\DateTime.md) |  | [optional] 
+**jrnlno** | **int** |  | [optional] 
+**linealtno** | **int** |  | [optional] 
+**notesfl** | **string** |  | [optional] 
+**orderaltno** | **int** |  | [optional] 
+**orderaltsuf** | **int** |  | [optional] 
+**ordertype** | **string** |  | [optional] 
+**prodcat** | **string** |  | [optional] 
+**prodcost** | **double** |  | [optional] 
+**qtyord** | **double** |  | [optional] 
+**qtyship** | **double** |  | [optional] 
+**refer** | **string** |  | [optional] 
+**reqoptfl** | **bool** |  | [optional] 
+**requestprod** | **string** |  | [optional] 
+**rrarinit** | **string** |  | [optional] 
+**seqaltno** | **int** |  | [optional] 
+**serlottype** | **string** |  | [optional] 
+**setno** | **int** |  | [optional] 
+**shipprod** | **string** |  | [optional] 
+**sortfield** | **string** |  | [optional] 
+**stagecd** | **int** |  | [optional] 
+**statuscd** | **string** |  | [optional] 
+**statustype** | **bool** |  | [optional] 
+**stkqtyord** | **double** |  | [optional] 
+**stkqtyship** | **double** |  | [optional] 
+**unit** | **string** |  | [optional] 
+**whse** | **string** |  | [optional] 
+**user1** | **string** |  | [optional] 
+**user2** | **string** |  | [optional] 
+**user3** | **string** |  | [optional] 
+**user4** | **string** |  | [optional] 
+**user5** | **string** |  | [optional] 
+**user6** | **double** |  | [optional] 
+**user7** | **double** |  | [optional] 
+**user8** | [**\DateTime**](\DateTime.md) |  | [optional] 
+**user9** | [**\DateTime**](\DateTime.md) |  | [optional] 
+**userfield** | **string** |  | [optional] 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+

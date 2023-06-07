@@ -1,0 +1,49 @@
+# TOutgenHeader
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**key1** | **string** |  | [optional] 
+**key2** | **string** |  | [optional] 
+**key3** | **string** |  | [optional] 
+**custno** | **double** |  | [optional] 
+**enterdt** | [**\DateTime**](\DateTime.md) |  | [optional] 
+**orderno** | **int** |  | [optional] 
+**ordersuf** | **int** |  | [optional] 
+**prod** | **string** |  | [optional] 
+**shipfm** | **int** |  | [optional] 
+**shipto** | **string** |  | [optional] 
+**stagecd** | **int** |  | [optional] 
+**totcost** | **double** |  | [optional] 
+**totcostord** | **double** |  | [optional] 
+**totinvamt** | **double** |  | [optional] 
+**totinvord** | **double** |  | [optional] 
+**totqtyord** | **double** |  | [optional] 
+**totqtyshp** | **double** |  | [optional] 
+**transtype** | **string** |  | [optional] 
+**vendno** | **double** |  | [optional] 
+**whse** | **string** |  | [optional] 
+**char1** | **string** |  | [optional] 
+**char2** | **string** |  | [optional] 
+**char3** | **string** |  | [optional] 
+**char4** | **string** |  | [optional] 
+**char5** | **string** |  | [optional] 
+**char6** | **string** |  | [optional] 
+**char7** | **string** |  | [optional] 
+**char8** | **string** |  | [optional] 
+**char9** | **string** |  | [optional] 
+**char10** | **string** |  | [optional] 
+**dec1** | **double** |  | [optional] 
+**dec2** | **double** |  | [optional] 
+**dec3** | **double** |  | [optional] 
+**dec4** | **double** |  | [optional] 
+**dec5** | **double** |  | [optional] 
+**date1** | [**\DateTime**](\DateTime.md) |  | [optional] 
+**date2** | [**\DateTime**](\DateTime.md) |  | [optional] 
+**date3** | [**\DateTime**](\DateTime.md) |  | [optional] 
+**date4** | [**\DateTime**](\DateTime.md) |  | [optional] 
+**date5** | [**\DateTime**](\DateTime.md) |  | [optional] 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+

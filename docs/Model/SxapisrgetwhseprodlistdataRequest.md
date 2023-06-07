@@ -1,0 +1,17 @@
+# SxapisrgetwhseprodlistdataRequest
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**company_number** | **int** |  | [optional] 
+**operator_init** | **string** |  | [optional] 
+**operator_password** | **string** |  | [optional] 
+**product_code** | **string** |  | [optional] 
+**customer_number** | **double** |  | [optional] 
+**ship_to** | **string** |  | [optional] 
+**record_limit** | **int** |  | [optional] 
+**t_infieldvalue** | [**\Swagger\Client\Model\TInfieldvalueReq**](TInfieldvalueReq.md) |  | [optional] 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+

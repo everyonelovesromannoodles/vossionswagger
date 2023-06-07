@@ -1,0 +1,49 @@
+# SxapiapgetvendordatageneralResponse
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**c_error_message** | **string** |  | [optional] 
+**address1** | **string** |  | [optional] 
+**address2** | **string** |  | [optional] 
+**address3** | **string** |  | [optional] 
+**ap_customer_number** | **string** |  | [optional] 
+**vendor_class** | **int** |  | [optional] 
+**ar_customer_number** | **double** |  | [optional] 
+**bank_number** | **int** |  | [optional] 
+**city** | **string** |  | [optional] 
+**comment** | **string** |  | [optional] 
+**country_code** | **string** |  | [optional] 
+**country_code_description** | **string** |  | [optional] 
+**currency_type** | **string** |  | [optional] 
+**dispute_flag** | **bool** |  | [optional] 
+**division_number** | **int** |  | [optional] 
+**duns_number** | **string** |  | [optional] 
+**email_address** | **string** |  | [optional] 
+**entered_date** | [**\DateTime**](\DateTime.md) |  | [optional] 
+**exclude_e_commerce_type** | **string** |  | [optional] 
+**expediter_name** | **string** |  | [optional] 
+**expediter_phone_number** | **string** |  | [optional] 
+**fax_phone_number** | **string** |  | [optional] 
+**invoice_type** | **string** |  | [optional] 
+**language_code** | **string** |  | [optional] 
+**language_code_description** | **string** |  | [optional] 
+**lookup_name** | **string** |  | [optional] 
+**name** | **string** |  | [optional] 
+**notes_indicator** | **string** |  | [optional] 
+**phone_number** | **string** |  | [optional] 
+**sales_rep_name** | **string** |  | [optional] 
+**sales_rep_phone_number** | **string** |  | [optional] 
+**state** | **string** |  | [optional] 
+**status_type** | **string** |  | [optional] 
+**sync_crm_flag** | **bool** |  | [optional] 
+**terms_type** | **string** |  | [optional] 
+**terms_type_description** | **string** |  | [optional] 
+**send_checks_to_vendor_number** | **double** |  | [optional] 
+**vendor_type** | **string** |  | [optional] 
+**postal_code** | **string** |  | [optional] 
+**last_update** | **string** |  | [optional] 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+
